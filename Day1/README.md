@@ -20,11 +20,3 @@
 ### Задание 4
 
 #### - [Ссылка на задание 4](task_4)
-
-## Day 2
-
-### Задание 1
-
-#### - [Абстрактный вектор](Day_2/src/com/vector/Vector2d.java)
-#### - [Запуск Main](Day_2/src/com/vector/Main.java)
-#### - [Вектор 2D](Day_2/src/com/vector/Vector2d.java)
