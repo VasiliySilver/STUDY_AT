@@ -25,7 +25,6 @@
 
 ### Задание 1
 
-#### - [Абстрактный вектор](AbVector.java)
-#### - [Запуск Main](Main.java)
-#### - [Вектор 2D](task_2.txt)
-
+#### - [Абстрактный вектор](Day_2/src/com/vector/Vector2d.java)
+#### - [Запуск Main](Day_2/src/com/vector/Main.java)
+#### - [Вектор 2D](Day_2/src/com/vector/Vector2d.java)
