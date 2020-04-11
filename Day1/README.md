@@ -1,4 +1,4 @@
-[назад](STUDY_AT)
+[назад](/STUDY_AT)
 
 # Day 1
 
