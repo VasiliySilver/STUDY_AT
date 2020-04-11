@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-11T22:36:25 MSK" name="Command line suite" finished-at="2020-04-11T22:36:46 MSK" duration-ms="21311">
+    <groups>
+    </groups>
+    <test started-at="2020-04-11T22:36:25 MSK" name="Command line test" finished-at="2020-04-11T22:36:46 MSK" duration-ms="21311">
+      <class name="ru.technoserv.atmaven.tests.AlertDemoTest">
+        <test-method is-config="true" signature="OpenSite()[pri:0, instance:ru.technoserv.atmaven.tests.AlertDemoTest@43738a82]" started-at="2020-04-11T22:36:25 MSK" name="OpenSite" finished-at="2020-04-11T22:36:34 MSK" duration-ms="8837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSite -->
+        <test-method signature="AlertDemo()[pri:0, instance:ru.technoserv.atmaven.tests.AlertDemoTest@43738a82]" started-at="2020-04-11T22:36:34 MSK" name="AlertDemo" finished-at="2020-04-11T22:36:34 MSK" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AlertDemo -->
+        <test-method is-config="true" signature="РЎloseSite()[pri:0, instance:ru.technoserv.atmaven.tests.AlertDemoTest@43738a82]" started-at="2020-04-11T22:36:34 MSK" name="РЎloseSite" finished-at="2020-04-11T22:36:39 MSK" duration-ms="4115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- РЎloseSite -->
+      </class> <!-- ru.technoserv.atmaven.tests.AlertDemoTest -->
+      <class name="ru.technoserv.atmaven.tests.FirstE2ETest">
+        <test-method is-config="true" signature="openSite()[pri:0, instance:ru.technoserv.atmaven.tests.FirstE2ETest@c81cdd1]" started-at="2020-04-11T22:36:39 MSK" name="openSite" finished-at="2020-04-11T22:36:45 MSK" duration-ms="6573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSite -->
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:ru.technoserv.atmaven.tests.FirstE2ETest@c81cdd1]" started-at="2020-04-11T22:36:45 MSK" name="verifyHomepageTitle" finished-at="2020-04-11T22:36:45 MSK" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method signature="verifyMainLabel()[pri:0, instance:ru.technoserv.atmaven.tests.FirstE2ETest@c81cdd1]" started-at="2020-04-11T22:36:45 MSK" name="verifyMainLabel" finished-at="2020-04-11T22:36:46 MSK" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMainLabel -->
+        <test-method is-config="true" signature="closeSite()[pri:0, instance:ru.technoserv.atmaven.tests.FirstE2ETest@c81cdd1]" started-at="2020-04-11T22:36:46 MSK" name="closeSite" finished-at="2020-04-11T22:36:46 MSK" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSite -->
+      </class> <!-- ru.technoserv.atmaven.tests.FirstE2ETest -->
+      <class name="ru.technoserv.atmaven.tests.SampleTest">
+        <test-method signature="compareDouble()[pri:0, instance:ru.technoserv.atmaven.tests.SampleTest@1fc2b765]" started-at="2020-04-11T22:36:46 MSK" name="compareDouble" finished-at="2020-04-11T22:36:46 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareDouble -->
+        <test-method signature="compareIntegers()[pri:0, instance:ru.technoserv.atmaven.tests.SampleTest@1fc2b765]" started-at="2020-04-11T22:36:46 MSK" name="compareIntegers" finished-at="2020-04-11T22:36:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareIntegers -->
+        <test-method signature="compareStrings()[pri:0, instance:ru.technoserv.atmaven.tests.SampleTest@1fc2b765]" started-at="2020-04-11T22:36:46 MSK" name="compareStrings" finished-at="2020-04-11T22:36:46 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareStrings -->
+      </class> <!-- ru.technoserv.atmaven.tests.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
