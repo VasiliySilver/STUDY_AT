@@ -1,4 +1,4 @@
-[назад](/STUDY_AT)
+[назад](README.md)
 
 # Day 1
 
