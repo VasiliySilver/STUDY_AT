@@ -1,4 +1,4 @@
-[назад](README.md)
+[назад](/STUDY_AT/blob/master/README.md)
 
 # Day 1
 
