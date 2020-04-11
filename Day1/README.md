@@ -1,4 +1,4 @@
-[назад](https://github.com/VasiliySilver/STUDY_AT)
+[назад](https://github.com/VasiliySilver/STUDY_AT/blob/master/README.md)
 
 # Day 1
 
