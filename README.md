@@ -37,8 +37,8 @@
 ### Задание 4
 
 #### - [Ссылка на задание 4](Day1/task_4.md)
-
 ***
+
 
 ## Day 2
 
@@ -48,8 +48,14 @@
 #### - [Запуск Main](Day_2/src/com/vector/Main.java)
 #### - [Вектор 2D](Day_2/src/com/vector/Vector2d.java)
 #### - [Вектор 3D](Day_2/src/com/vector/Vector3d.java)
-
 ***
+
+
+## Day 3
+>Заставить работать пример у себя
+- [Пример](Day 3/src/main/java/mypackage/Sample.java)
+***
+
 
 ## Day 4
 
