@@ -47,7 +47,7 @@
 #### - [Абстрактный вектор](Day_2/src/com/vector/Vector2d.java)
 #### - [Запуск Main](Day_2/src/com/vector/Main.java)
 #### - [Вектор 2D](Day_2/src/com/vector/Vector2d.java)
-#### = [Вектор 3D](Day_2/src/com/vector/Vector3d.java)
+#### - [Вектор 3D](Day_2/src/com/vector/Vector3d.java)
 
 ***
 
