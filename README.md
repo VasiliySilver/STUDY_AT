@@ -47,3 +47,20 @@
 #### - [Абстрактный вектор](Day_2/src/com/vector/Vector2d.java)
 #### - [Запуск Main](Day_2/src/com/vector/Main.java)
 #### - [Вектор 2D](Day_2/src/com/vector/Vector2d.java)
+
+***
+
+## Day 4
+
+#### Задаиие
+
+>Взять имеющиеся консольные программы, использующие Selenium и переоформить их в виде тестов TestNG. Декомпозировав код на инициализацию, сами тесты и деинициализацию, добавив Asserts. Запустить тесты, убедиться, что всё работает и все тесты выполнены успешно. Оптимизировать время выполнения набора тестов
+
+- [AlertDemoTest](Day4/src/test/java/ru/technoserv/atmaven/tests/AlertDemoTest.java)
+- [PopupDemoTest](Day4/src/test/java/ru/technoserv/atmaven/tests/PopupDemoTest.java)
+- [Sample1Test](Day4/src/test/java/ru/technoserv/atmaven/tests/Sample1Test.java)
+- [Sample2Test](Day4/src/test/java/ru/technoserv/atmaven/tests/Sample2Test.java)
+- [Sample3Test](Day4/src/test/java/ru/technoserv/atmaven/tests/Sample3Test.java)
+- [Sample4Test](Day4/src/test/java/ru/technoserv/atmaven/tests/Sample4Test.java)
+- [ToolTipTest](Day4/src/test/java/ru/technoserv/atmaven/tests/ToolTipTest.java)
+- [ValidationDemoTest](Day4/src/test/java/ru/technoserv/atmaven/tests/ValidationDemoTest.java)
