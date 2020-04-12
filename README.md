@@ -56,6 +56,7 @@
 
 >Взять имеющиеся консольные программы, использующие Selenium и переоформить их в виде тестов TestNG. Декомпозировав код на инициализацию, сами тесты и деинициализацию, добавив Asserts. Запустить тесты, убедиться, что всё работает и все тесты выполнены успешно. Оптимизировать время выполнения набора тестов
 
+##### Тесты
 - [AlertDemoTest](Day4/src/test/java/ru/technoserv/atmaven/tests/AlertDemoTest.java)
 - [PopupDemoTest](Day4/src/test/java/ru/technoserv/atmaven/tests/PopupDemoTest.java)
 - [Sample1Test](Day4/src/test/java/ru/technoserv/atmaven/tests/Sample1Test.java)
